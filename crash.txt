@@ -1,0 +1,23 @@
+
+
+java.lang.IllegalArgumentException: Unknown color
+	at android.graphics.Color.parseColor(Color.java:225)
+	at ohi.andre.consolelauncher.b.a(Unknown Source)
+	at ohi.andre.consolelauncher.b.<init>(Unknown Source)
+	at ohi.andre.consolelauncher.LauncherActivity.l(Unknown Source)
+	at ohi.andre.consolelauncher.LauncherActivity.onCreate(Unknown Source)
+	at android.app.Activity.performCreate(Activity.java:6010)
+	at android.app.Instrumentation.callActivityOnCreate(Instrumentation.java:1129)
+	at android.app.ActivityThread.performLaunchActivity(ActivityThread.java:2292)
+	at android.app.ActivityThread.handleLaunchActivity(ActivityThread.java:2413)
+	at android.app.ActivityThread.access$800(ActivityThread.java:155)
+	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1317)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:135)
+	at android.app.ActivityThread.main(ActivityThread.java:5343)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:905)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:700)
+
+----------------------------

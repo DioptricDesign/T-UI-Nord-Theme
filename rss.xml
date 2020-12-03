@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RSS>
+<rss_default_color value="#ebcb8b"/>
+<rss_default_format value="%[50][#88c0d0]title ### %[100][#a3be8c]description (%pubDate)"/>
+<include_rss_default value="true"/>
+<rss_hidden_tags value="img"/>
+<rss_time_format value="%t0"/>
+<show_rss_download value="true"/>
+<rss_download_format value="RSS: %id --- Downloaded %sb bytes"/>
+<rss_download_message_color value="#88c0d0"/>
+<click_rss value="true"/>
+<rss id="1" updateTimeSec="3600" show="true" url="https://www.dioptricdesign.com/feed/" lastShownItem="1600187327000" lastChecked="1607032808043"/>
+<rss id="1" updateTimeSec="3600" show="true" url="https://www.dioptricdesign.com/feed/"/>
+</RSS>
