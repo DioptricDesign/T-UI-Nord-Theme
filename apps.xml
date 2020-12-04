@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<APPS>
+<default_app_n1 value="com.android.dialer-com.android.dialer.DialtactsActivity"/>
+<default_app_n2 value="com.simplemobiletools.smsmessenger-com.simplemobiletools.smsmessenger.activities.SplashActivity.Orange"/>
+<default_app_n3 value="com.simplemobiletools.camera-com.simplemobiletools.camera.activities.SplashActivity.Orange"/>
+<default_app_n4 value="null"/>
+<default_app_n5 value="null"/>
+<app_groups_sorting value="2"/>
+<Media apps="org.videolan.vlc-org.videolan.vlc.StartActivity;de.danoeh.antennapod-de.danoeh.antennapod.activity.SplashActivity;org.schabi.newpipelegacy-org.schabi.newpipelegacy.MainActivity"/>
+<Utilities apps="com.nextcloud.client-com.owncloud.android.ui.activity.FileDisplayActivity;com.simplemobiletools.notes.pro-com.simplemobiletools.notes.pro.activities.SplashActivity.Orange;com.android.settings-com.android.settings.Settings"/>
+</APPS>

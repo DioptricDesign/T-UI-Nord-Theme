@@ -1,0 +1,12 @@
+
+
+yt=NewPipe Legacy
+rs=restart
+pd=AntennaPod
+nx=NextCloud
+
+fe=Feeder
+mp=Vlc
+
+
+ct=Simplemobiletools Contacts

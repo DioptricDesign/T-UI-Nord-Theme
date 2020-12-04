@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NOTIFICATIONS>
+<show_notifications value="true"/>
+<app_notification_enabled_default value="true"/>
+<default_notification_color value="#88c0d0"/>
+<notification_format value="[%t] %pkg: %[100][#a3be8c]title --- %text"/>
+<click_notification value="true"/>
+<long_click_notification value="true"/>
+<notification_popup_exclude_app value="true"/>
+<notification_popup_exclude_notification value="true"/>
+<notification_popup_reply value="true"/>
+</NOTIFICATIONS>
